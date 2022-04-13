@@ -3,18 +3,18 @@ console.clear();
 const leaderboard = [
 	{
 		rank: 1,
-		name: "Purak",
-		tag: "PERSONNE#0000",
+		name: "Shiqja",
+		tag: "Sakuna#6375",
 		price: "50 000.00",
-		img: "https://cdn.discordapp.com/avatars/687410302681219158/3e7c357efbf8c278c7f686c75b461a01.webp?size=128",
+		img: "https://cdn.discordapp.com/avatars/919706870955003965/13502f4fe3586ca78627f06eae113064.webp?size=128",
 		date: "20/03/XXXX"
 	}
 ];
 
 const clientBar = [
 	{
-		name: "Purak",
-		img: "https://cdn.discordapp.com/avatars/687410302681219158/3e7c357efbf8c278c7f686c75b461a01.webp?size=128",
+		name: "Shiqja",
+		img: "https://cdn.discordapp.com/avatars/919706870955003965/13502f4fe3586ca78627f06eae113064.webp?size=128",
 		prix: 0
 	}
 ];
