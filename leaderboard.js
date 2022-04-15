@@ -6,8 +6,14 @@ const leaderboard = [
 		name: "Shiqja",
 		tag: "Sakuna#6375",
 		price: "50 000.00",
-		img: "https://cdn.discordapp.com/avatars/919706870955003965/13502f4fe3586ca78627f06eae113064.webp?size=128",
-		date: "20/03/XXXX"
+		img: "https://cdn.discordapp.com/avatars/919706870955003965/13502f4fe3586ca78627f06eae113064.webp?size=128"
+	},
+	{
+		rank:2,
+		name: "M8",
+		tag: "Aliix#3620",
+		price: "20 000.00",
+		img: "https://cdn.discordapp.com/avatars/228492921303728128/23e2c6889aa12d7cf2b79e0389ba9a5f.webp?size=128"
 	}
 ];
 
