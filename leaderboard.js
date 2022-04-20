@@ -14,7 +14,14 @@ const leaderboard = [
 		tag: "Aliix#3620",
 		price: "20 000.00",
 		img: "https://cdn.discordapp.com/avatars/228492921303728128/23e2c6889aa12d7cf2b79e0389ba9a5f.webp?size=128"
-	}
+	},
+	{
+		rank:3,
+		name: "Hiru Baal",
+		tag: "Bluefade#6436",
+		price: "19 000.00",
+		img: "https://cdn.discordapp.com/avatars/452788577542209536/c58af2aa199bf16f4561532cf2246c3d.png?size=128"
+	},
 ];
 
 const clientBar = [
